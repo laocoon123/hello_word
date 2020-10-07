@@ -1,4 +1,2 @@
 # hello_word
-The very first step on github
-
- A description here
+The first step on github
